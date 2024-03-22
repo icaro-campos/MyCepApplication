@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCepApplication</string>
+    <string name="invalid_cep">Por favor, insira um CEP válido.</string>
+    <string name="cep_success_locally">Detalhes do CEP obtidos localmente com sucesso.</string>
+    <string name="cep_details_viacep">Detalhes do CEP obtidos do ViaCep com sucesso.</string>
+    <string name="cep_details_apicep">Detalhes do CEP obtidos do ApiCep com sucesso.</string>
+    <string name="cep_details_awesomeapi">Detalhes do CEP obtidos do AwesomeApi com sucesso.</string>
+    <string name="details_cep_error">Falha ao obter detalhes do CEP.</string>
+    <string name="digits_cep">Cep com 8 dígitos</string>
+    <string name="search">Consultar</string>
+</resources>
